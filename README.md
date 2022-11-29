@@ -4,4 +4,4 @@
 - 🌱 J'apprends actuellement Java
 - 😄 Pronoms : she/her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Wania's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=chartreuse-dark&show_icons=true)
